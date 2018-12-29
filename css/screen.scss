@@ -14,3 +14,28 @@
 @import "navigation";
 @import "footer";
 @import "cloudcannon";
+
+
+img.button {
+	max-width: 200px;
+}
+
+header .company-name {
+	font-size: 1.2em;
+}
+
+header .company-name span {
+	position: relative;
+	margin-left: 0.5em;
+	bottom: 0.5em;
+}
+
+header .company-name img {
+	display: inline;
+	/* Safari 3-4, iOS 1-3.2, Android 1.6- */
+	-webkit-border-radius: 6px; 
+	/* Firefox 1-3.6 */
+	-moz-border-radius: 6px; 
+	/* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
+	border-radius: 6px;
+}
