@@ -12,8 +12,8 @@ disqus_shortname:
 logo: /images/AppIcon.png
 description: visualize your Progress for Apple Reminders.
 author:
-  name:
-  email:
+  name: Marco Betschart
+  email: support@progress.rocks
   twitter: ProgressApple # twitter username without the @ symbol
 social:
   name: Progress for Apple Reminders
