@@ -20,15 +20,17 @@
 #  - name: Status
 #    link: /
 #    new_window: true
-#- links:
+- links:
 #  - name: Facebook
 #    link: https://facebook.com
 #    new_window: true
 #    social_icon: Facebook
-#  - name: Twitter
-#    link: https://twitter.com
-#    social_icon: Twitter
-#    new_window: true
+  - name: "@ProgressApple"
+    link: https://twitter.com/ProgressApple
+    social_icon: Twitter
+    new_window: true
+  - name: "support@progress.rocks"
+    link: "mailto:support@progress.rocks"
 #  - name: YouTube
 #    link: https://youtube.com
 #    social_icon: YouTube
