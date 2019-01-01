@@ -31,7 +31,8 @@ collections:
 
 paginate: 10
 paginate_path: "/blog/:num/"
-permalink: pretty
+# https://jekyllrb.com/docs/permalinks/
+permalink: /blog/:categories/:title/
 
 defaults:
   -
