@@ -21,6 +21,7 @@ Once you've set your goals you can easily keep yourself accountable with reports
 
 Let's start chasing your goals for 2019!
 
-<a href="#" target="_blank">
-    <img src="/images/App_Store_Badge.svg" alt="Download on the App Store" />
-</a>
+<!-- <a href="#" target="_blank"> -->
+  <img src="/images/App_Store_Badge.svg" alt="Download on the App Store" class="appstore disabled" />
+<!-- </a> -->
+<h3>Soon in your App Store!</h3>
