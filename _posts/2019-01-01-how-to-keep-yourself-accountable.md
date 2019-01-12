@@ -1,7 +1,7 @@
 ---
 date: 2019-01-01
-title: "Happy New Year - or how to keep yourself accountable"
-description: "A new year has just started and we got a bunch of good resolutions for it. But how shall we keep ourselves accountable in 2019? If you are using Apple Reminders to organize your daily to-dos, then there is something hot around the corner to help you out!"
+title: "How to keep yourself accountable"
+description: "You are using Apple Reminders for your to-dos? There is something to help you out!"
 image: /images/Progress-Bar-Chart-Apple-Reminders.png
 categories:
   - "Getting-Started"
