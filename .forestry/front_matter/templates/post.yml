@@ -34,3 +34,5 @@ fields:
     - marco
   label: Author Staff Member
   default: marco
+pages:
+- _posts/title-test.md
