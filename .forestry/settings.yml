@@ -20,3 +20,6 @@ public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
+build:
+  preview_command: bundle exec jekyll build -d public --drafts --unpublished --future
+  preview_output_directory: public
