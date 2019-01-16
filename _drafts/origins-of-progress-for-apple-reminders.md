@@ -14,4 +14,4 @@ What made a huge difference to me was Davids advice to "capture all the things .
 
 Now, take on your Apple-Universe-Glasses and let's think about Davids advice for a second. Can you see it? Which App does fit this description?
 
-Apple Reminders is the perfect match! It is a "trusted system outside of your head" and since it is available in nearly every macOS and iOS App through the Share Action, it is "instantaneous and easy" as well.
+Apple Reminders is the perfect match! It is a "trusted system outside of your head", it is available for all Apple platforms as well as in nearly every App through the Share Action - so one can safely say it is "instantaneous and easy".
