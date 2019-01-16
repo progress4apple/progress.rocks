@@ -12,7 +12,7 @@ If you found Progress for Apple Reminders, chances are good you are already fami
 
 What made a huge difference to me was Davids advice to "capture all the things ... in a logical and trusted system outside of your head" as well as "filing has to be instantaneous and easy".
 
-Now, take on your Apple-Universe-Glasses and let's think about Davids advice for a second. Can you see it? Which App does fit this description?
+Now, take on your Apple-Universe-Glasses and let's think about Davids advice for a second. Can you see it? Which App in the Apple universe does fit this description?
 
 Apple Reminders is the perfect match! It is a "trusted system outside of your head", it is available for all Apple platforms as well as in nearly every App through the Share Action - so one can safely say it is "instantaneous and easy".
 
