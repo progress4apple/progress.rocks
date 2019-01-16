@@ -14,6 +14,6 @@ First, Davids advices to "capture all the things ... in a logical and trusted sy
 
 Now, take on your Apple-Universe-Glasses and think about Davids advice for a second. Can you see it? Which App in the Apple universe does fit this description?
 
-Exactly, Apple Reminders is the perfect match! It is a "trusted system outside of your head", it is available for all Apple platforms as well as in nearly every App through the Share Action - so one can safely say it is "instantaneous and easy".
+Exactly, Apple Reminders is the perfect match! It is a "trusted system outside of your head", it is available for all Apple platforms and through the Share Action it is reachable through nearly every App  - so one can safely say it is "instantaneous and easy".
 
 That's why I keep track of everything in Apple Reminders - regardless if professional or private. Don't be misled: Apple Reminders isn't a project management software. It doesn't have a lot of features. But it does one thing extremely well: Keeping things simple. In 90% of all times I simply want to keep track of an idea which can be expressed with a title, description and maybe a link. Sometimes I also want to be reminded of this idea at a specific location or time. That's it. And that's exactly where Apple Reminders excels.
