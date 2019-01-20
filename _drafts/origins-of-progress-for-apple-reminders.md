@@ -33,3 +33,5 @@ In Progress for Apple Reminders you can add any kind of reports you like, with o
 ![Progress for Apple Reminders Today Widget](/images/Progress-Bar-Chart-Apple-Reminders-Today-Widget.png)
 
 This is it. The story behind Progress for Apple Reminders and how I use it to achieve my personal and professional goals - while feeling confident on my journey. Give Progress for Apple Reminders a try and let me know what you think. Looking forward hearing from you!
+
+<!-- <a href="#" target="_blank"> --> <img src="/images/App_Store_Badge.svg" alt="Download on the App Store" class="appstore disabled" /> <!-- </a> --> <h3>Soon in your App Store!</h3>
