@@ -1,7 +1,7 @@
 ---
 author_staff_member: marco
 title: The story behind Progress for Apple Reminders
-date: 2019-01-20 08:00:00 +0100
+date: 2019-01-20 16:00:00 +0100
 description: Where, how and why the journey of Progress for Apple Reminders began.
 image: "/images/Progress-Bar-Chart-Apple-Reminders.png"
 categories:
