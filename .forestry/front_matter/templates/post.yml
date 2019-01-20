@@ -14,7 +14,7 @@ fields:
   config:
     date_format: YYYY-MM-DD
     required: true
-    time_format: hh:mm:ssZZ
+    time_format: HH:MM:SS
 - type: text
   name: description
   label: Description
