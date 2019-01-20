@@ -12,9 +12,9 @@ fields:
   label: Date
   name: date
   config:
-    date_format: YYYY-MM-DD
+    date_format: ''
     required: true
-    time_format: HH:MM
+    time_format: ''
 - type: text
   name: description
   label: Description
