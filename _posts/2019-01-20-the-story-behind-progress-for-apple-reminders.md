@@ -3,7 +3,7 @@ author_staff_member: marco
 title: The story behind Progress
 date: 2019-01-20 16:00:00 +0100
 description: How a birds eye view for Apple Reminders helps you to keep on track.
-image: "/images/Progress-Bar-Chart-Apple-Reminders.png"
+image: "/images/Progress-Bar-Chart-Apple-Reminders-Today-Widget.png"
 categories:
 - Vision
 
