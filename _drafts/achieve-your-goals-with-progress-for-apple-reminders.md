@@ -1,6 +1,6 @@
 ---
 author_staff_member: marco
-title: Remaining to-dos of current week for Apple Reminders
+title: Achieve your goals with Progress for Apple Reminders
 date: 2019-01-16 18:00:00 +0100
 description: Display your remaining to-dos of the current week in an iOS Today Widget.
 image: ''
