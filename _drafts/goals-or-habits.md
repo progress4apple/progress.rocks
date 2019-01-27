@@ -4,7 +4,7 @@ title: Goals or Habits?
 date: 2019-01-18 00:00:00 +0100
 description: The difference between goals and habits - and for which one you should
   strive for.
-image: ''
+image: "/images/mikito-tateisi-333584-unsplash.jpg"
 categories:
 - Vision
 
@@ -49,5 +49,6 @@ If you use Apple Reminders to organise your to-do lists, Progress for Apple Remi
 
 ### Soon in your App Store!
 
-  
 Further reading: [Habits vs. Goals: A Look at the Benefits of a Systematic Approach to Life](https://fs.blog/2017/06/habits-vs-goals/), [The Power of Habit by Charles Duhigg](https://itunes.apple.com/de/book/the-power-of-habit/id494604132?mt=11), [The Compound Effect by Darren Hardy](https://itunes.apple.com/us/book/the-compound-effect/id1212219081?mt=11)
+
+Photo by [Mikito Tateisi](https://unsplash.com/photos/bJhT_8nbUA0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/stress?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
