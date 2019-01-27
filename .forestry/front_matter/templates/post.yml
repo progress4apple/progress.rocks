@@ -35,6 +35,7 @@ fields:
   label: Author Staff Member
   default: marco
 pages:
+- _posts/beware-of-the-urgency-bias.md
 - _posts/achieve-your-goals-with-progress-for-apple-reminders.md
 - _posts/establish-habits-using-progress-for-apple-reminders.md
 - _posts/goals-or-habits.md
