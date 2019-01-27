@@ -4,7 +4,7 @@ title: Beware of the urgency bias
 date: 2019-02-05 13:00:00 +0100
 description: If you are serious about reaching your goals, you need to choose wisely
   whether something deserves your attention or not.
-image: ''
+image: "/images/nikko-macaspac-263785-unsplash.jpg"
 categories:
 - Productivity
 
@@ -18,3 +18,11 @@ In today’s world it’s hard to focus on what really matters. Too much distrac
 To pave the way to your goals, you have to acknowledge that most things which appear important to you, are either _important for someone else_ or _massively overrated by yourself_ (aka. as the [mere urgency effect - a tendency to pursue urgency over importance](https://academic.oup.com/jcr/advance-article-abstract/doi/10.1093/jcr/ucy008/4847790)).
 
 If you ever find yourself hunting one “important” task after another, do a re-evaluation of your tasks using the [Eisenhower Principle](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method) and ask yourself: “What happens, if I simply don’t do this?” and “Is it worth the effort to avoid these things to happen?”
+
+If you use Apple Reminders to organise your to-do lists, Progress for Apple Reminders can help you to achieve what you want. Give it a try and let me know what you think!
+
+<!-- <a href="#" target="_blank"> --><img src="/images/App_Store_Badge.svg" alt="Download on the App Store" class="appstore disabled" /> <!-- </a> -->
+
+### Soon in your App Store!
+
+Photo by [nikko macaspac](https://unsplash.com/photos/6SNbWyFwuhk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/stress?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
