@@ -22,4 +22,10 @@ use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_command: bundle exec jekyll build -d public --drafts --unpublished --future
+  publish_command: bundle exec jekyll build -d _site
+  preview_env:
+  - JEKYLL_ENV=staging
+  publish_env:
+  - JEKYLL_ENV=production
   preview_output_directory: public
+  output_directory: _site
