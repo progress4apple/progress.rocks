@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /images/AppIcon.png
-description: visualize your Progress for Apple Reminders.
+description: "visualize your to-dos, face your goals and beat the bar!"
 twitter:
   username: Progress4Apple
   card: summary_large_image
