@@ -1,6 +1,11 @@
 ---
 layout: page
 ---
+{% if page.image %}
+	<div class="blog-post text-container image-container">
+		<img src="{% include relative-src.html src=page.image %}" alt="{{ page.description }}"/>
+	</div>
+{% endif %}
 <div class="blog-post text-container">
 	{% include post-title.html post=page %}
 

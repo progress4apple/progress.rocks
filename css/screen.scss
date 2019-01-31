@@ -60,3 +60,10 @@ header .company-name img {
 	opacity: 0.2;
 	max-width: 200px;
 }
+
+.blog-post.image-container {
+	text-align: center;
+}
+.blog-post.image-container img {
+	max-width: 100%;
+}

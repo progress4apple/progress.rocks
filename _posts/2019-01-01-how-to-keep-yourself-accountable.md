@@ -2,7 +2,7 @@
 date: 2019-01-01
 title: "How to keep yourself accountable"
 description: "You are using Apple Reminders for your to-dos? There is something to help you out!"
-image: /images/Progress-Bar-Chart-Apple-Reminders.png
+image: /images/Progress-for-Apple-Reminders-App-Banner.jpg
 categories:
   - "Getting-Started"
 author_staff_member: marco
