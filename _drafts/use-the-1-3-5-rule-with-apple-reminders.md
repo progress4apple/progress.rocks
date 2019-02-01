@@ -32,7 +32,7 @@ How you actually decide what's "big", "medium" or "small" is up to you. Experien
 * For how long are you avoiding to work on the to-do?
 * _Insert your personal criteria here ..._
 
-Of course the answers to these questions change over time. So you should revise your todos regularly.
+Of course the answers to these questions change over time. So you should revise your reminders regularly.
 
 To sum up: We **use priorities together with the ability to set a date and time for the reminder** to end up with a **daily plan in the Scheduled list of Apple Reminders**.
 
