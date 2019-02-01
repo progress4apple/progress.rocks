@@ -24,9 +24,15 @@ To actually implement the rule, we need to segment your tasks in "big", "medium"
 **Medium (!!)** - a "medium" thing  
 **High (!!!)** - a "big" thing
 
-How you actually decide what's a "big" or "small" thing is up to you. If it's a "big" may depend on the amount of time you have to invest to get it done. Or it's more related to the 
+How you actually decide what's "big", "medium" or "small" is up to you. Experience shows you should test the to-do against several criteria and choose it's belonging according to your gut's feeling:
 
-Once done 
+* How much time does it cost you to get done?
+* How much energy does it cost you to get it done?
+* How big is the impact of the task once done?
+* For how long are you finding excuses to not work on this item?
+* ...
+
+Of course the answers to these questions can change over time. That's why you should revise your todos regularly.
 
 To sum up: We **use priorities together with the ability to set a date and time for the reminder** to end up with a **daily plan in the Scheduled list of Apple Reminders**.
 
