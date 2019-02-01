@@ -24,7 +24,7 @@ To actually implement the rule, we need to segment your tasks in "big", "medium"
 **Medium (!!)** - a "medium" thing  
 **High (!!!)** - a "big" thing
 
-How you actually decide what's "big", "medium" or "small" is up to you. Experience shows you should test the to-do against several criteria and choose it's belonging according to your gut's feeling:
+How you actually decide what's "big", "medium" or "small" is up to you. Experience shows you should test your to-dos against several criteria and choose their belonging according to your guts feeling:
 
 * How much time does it cost you to get done?
 * How much energy does it cost you to get it done?
