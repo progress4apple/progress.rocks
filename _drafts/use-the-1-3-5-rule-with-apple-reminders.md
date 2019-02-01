@@ -29,7 +29,7 @@ How you actually decide what's "big", "medium" or "small" is up to you. Experien
 * How much time does it costs you to get done?
 * How much energy does it costs you to get done?
 * How big is the impact of the task once done?
-* For how long are you finding excuses and avoid working on this?
+* For how long are you avoiding to work on the to-do?
 * _Insert your personal criteria here ..._
 
 Of course the answers to these questions change over time. So you should revise your todos regularly.
