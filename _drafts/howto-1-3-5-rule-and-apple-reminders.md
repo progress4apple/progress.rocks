@@ -34,8 +34,10 @@ How to actually decide what's "big", "medium" or "small" is up to you. Experienc
 
 Of course the answers to these questions change over time. So you should revise your tasks regularly.
 
-To sum up: We **use priorities together with the ability to set a date and time for the reminder** to end up with a **daily plan in the Scheduled list of Apple Reminders**.
+Now, you‘ve flagged your todos with priorities, telling you whether you‘re dealing with a „big“, „medium“or a „small“ task. The next step is to decide when your are going to do these tasks. For this, simply set the date and time for the reminder. Remember to set only 1 big, 3 medium and 5 small tasks for any given day.
 
-... Erklärung wie das zusammen mit Apple Erinnerungen genutzt werden kann ...
+There you go. Once you accomplished these things and open the „Scheduled“ list of Apple Reminders you‘ll see the 1-3-5 rule at a glance!
+
+To sum up: We **use priorities together with the ability to set a date and time for the reminder** to end up with a **daily plan in the Scheduled list of Apple Reminders**.
 
 Further reading: [A Better To-Do List: The 1-3-5 Rule](https://www.themuse.com/advice/a-better-todo-list-the-135-rule).
