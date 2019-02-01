@@ -10,7 +10,7 @@ categories:
 - Productivity
 
 ---
-In this post I'll show you how you can leverage the simplicity of Apple Reminders to get even more productive using the 1-3-5 rule. If you're not familiar with this rule yet don't worry, here's the gist:
+In this post I'll show you how you can leverage the simplicity of Apple Reminders to get even more productive with the 1-3-5 rule. If you're not familiar with this rule yet don't worry, here's the gist:
 
 > On any given day, assume that you can only accomplish one big thing, three medium things, and five small things, and narrow down your to-do list to those nine items. _-_ [_the muse_](https://www.themuse.com/advice/a-better-todo-list-the-135-rule)
 
