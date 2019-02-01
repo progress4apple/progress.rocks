@@ -30,7 +30,7 @@ How you actually decide what's "big", "medium" or "small" is up to you. Experien
 * How much energy does it cost you to get it done?
 * How big is the impact of the task once done?
 * For how long are you finding excuses to not work on this item?
-* ...
+* _Insert your personal criteria here ..._
 
 Of course the answers to these questions can change over time. That's why you should revise your todos regularly.
 
