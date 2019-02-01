@@ -35,6 +35,7 @@ fields:
   label: Author Staff Member
   default: marco
 pages:
+- _posts/use-the-1-3-5-rule-together-with-apple-reminders.md
 - _posts/achieve-your-goals-with-progress-for-apple-reminders.md
 - _posts/2019-01-28-goals-or-habits.md
 - _posts/how-to-use-priorities-to-reward-yourself.md
