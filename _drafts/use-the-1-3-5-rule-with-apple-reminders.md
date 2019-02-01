@@ -24,6 +24,10 @@ To actually implement the rule, we need to segment your tasks in "big", "medium"
 **Medium (!!)** - a "medium" thing  
 **High (!!!)** - a "big" thing
 
+How you actually decide what's a "big" or "small" thing is up to you. If it's a "big" may depend on the amount of time you have to invest to get it done. Or it's more related to the 
+
+Once done 
+
 To sum up: We **use priorities together with the ability to set a date and time for the reminder** to end up with a **daily plan in the Scheduled list of Apple Reminders**.
 
 ... Erklärung wie das zusammen mit Apple Erinnerungen genutzt werden kann ...
