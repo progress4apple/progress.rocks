@@ -38,6 +38,6 @@ Now, you‘ve flagged your todos with priorities, telling you whether you‘re d
 
 There you go. Once you accomplished this, open the „Scheduled“ list of Apple Reminders and you‘ll see the 1-3-5 rule at it‘s finest!
 
-To sum up: We **use priorities together with the ability to set a date and time for the reminder** to end up with a **daily plan in the Scheduled list of Apple Reminders**.
+To sum up: We **use priorities together with the ability to set a date and time for the reminder** to end up with a **daily plan in the „Scheduled“ list of Apple Reminders**.
 
 Further reading: [A Better To-Do List: The 1-3-5 Rule](https://www.themuse.com/advice/a-better-todo-list-the-135-rule).
