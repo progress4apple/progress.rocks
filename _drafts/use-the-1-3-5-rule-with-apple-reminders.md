@@ -18,7 +18,7 @@ In addition, the rule suggest to start your day with the chosen 1 big thing - wo
 
 ### How to use priorities in Apple Reminders
 
-To actually implement the rule, we need to segment your tasks in "big", "medium" and "small" things in Apple Reminders. To do so we leverage the reminder priority:
+To actually implement the 1-3-5 rule, we need to flag our tasks as "big", "medium" or "small" in Apple Reminders. To do so we leverage the priority of the reminder:
 
 **Low (!)** - a "small" thing  
 **Medium (!!)** - a "medium" thing  
