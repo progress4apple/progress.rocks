@@ -26,8 +26,8 @@ To actually implement the 1-3-5 rule, we need to flag our tasks as "big", "mediu
 
 How you actually decide what's "big", "medium" or "small" is up to you. Experience shows you should test your to-dos against several criteria and choose their belonging according to your guts feeling:
 
-* How much time does it costs you to get done?
-* How much energy does it costs you to get done?
+* How much time does the todo costs you to get done?
+* How much energy does the item costs you to get done?
 * How big is the impact of the task once done?
 * For how long are you avoiding to work on the to-do?
 * _Insert your personal criteria here ..._
