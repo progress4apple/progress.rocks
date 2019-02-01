@@ -14,7 +14,7 @@ In this post I'll show you how to leverage the simplicity of Apple Reminders to 
 
 > On any given day, assume that you can only accomplish one big thing, three medium things, and five small things, and narrow down your to-do list to those nine items. _-_ [_the muse_](https://www.themuse.com/advice/a-better-todo-list-the-135-rule)
 
-The rule also suggest to start your day with the chosen 1 big thing - working towards 3 medium and 5 small things. This way you make sure you accomplish the most important task of the day first, thus avoid getting caught by the [urgency effect](https://www.nytimes.com/2018/07/09/smarter-living/eisenhower-box-productivity-tips.html).
+In addition the rule suggest to start your day with the chosen 1 big thing - working towards 3 medium and 5 small things. This way you make sure you accomplish the most important task of the day first, thus avoid getting caught by the [urgency effect](https://www.nytimes.com/2018/07/09/smarter-living/eisenhower-box-productivity-tips.html).
 
 ### How to use priorities in Apple Reminders
 
