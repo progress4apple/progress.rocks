@@ -32,9 +32,9 @@ How to actually decide what's "big", "medium" or "small" is up to you. Experienc
 * For how long are you avoiding to work on the to-do?
 * _Insert your personal criteria here ..._
 
-Of course the answers to these questions change over time. So you should revise your tasks regularly.
+Of course the answer to these questions change over time. So you should revise your tasks regularly.
 
-Now, you‘ve flagged your todos with priorities, telling you whether you‘re dealing with a „big“, „medium“or a „small“ task. The next step is to decide when your are going to work on these tasks. For this, simply set a date and time for the reminder. Remember to set only 1 big, 3 medium and 5 small tasks for any given day.
+After you‘ve flagged your todos with priorities it's time to decide when you're going to work on these tasks. For this, simply set a date and time for the reminder. Remember to set only 1 big, 3 medium and 5 small tasks for any given day.
 
 Once you accomplished this, open the „Scheduled“ list of Apple Reminders and you‘ll see the 1-3-5 rule at it‘s finest!
 
