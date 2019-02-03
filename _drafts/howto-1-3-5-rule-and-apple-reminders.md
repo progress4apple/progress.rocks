@@ -1,6 +1,6 @@
 ---
 author_staff_member: marco
-title: 'Howto: 1-3-5 Rule and Apple Reminders'
+title: 'Howto: 1-3-5 Rule with Apple Reminders'
 date: 2019-02-04 08:00:00 +0000
 description: On any given day, assume that you can only accomplish one big thing,
   three medium things, and five small things, and narrow down your to-do list to those
