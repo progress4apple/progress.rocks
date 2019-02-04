@@ -24,7 +24,7 @@ To implement the 1-3-5 rule, we need a way to flag our tasks as "big", "medium" 
 **Medium (!!)** - a "medium" thing  
 **High (!!!)** - a "big" thing
 
-![](/images/Progress-for-Apple-Reminders-Priorities.jpg)
+![How to use priorities to flag reminders according to the 1-3-5 rule](/images/Progress-for-Apple-Reminders-Priorities.jpg)
 
 How you decide what's "big", "medium" or "small" is up to you. Experience shows you should test your to-dos against several criteria and choose their belonging according to your guts feeling. Here's a brief criteria list to kick things off:
 
@@ -42,7 +42,7 @@ After you‘ve flagged your todos with priorities it's time to decide when you'r
 
 Once you accomplished this, open the „Scheduled“ list of Apple Reminders and you‘ll see the 1-3-5 rule at it‘s finest!
 
-![](/images/Progress-for-Apple-Reminders-Scheduled-List.jpg)
+![The "Scheduled" list of Apple Reminders](/images/Progress-for-Apple-Reminders-Scheduled-List.jpg)
 
 To sum up: We **use priorities together with the ability to set a date and time for any reminder** to end up with a **daily plan in the „Scheduled“ list of Apple Reminders**.
 
