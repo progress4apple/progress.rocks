@@ -10,15 +10,15 @@ categories:
 - Productivity
 
 ---
-In this post I'll show you how to leverage the simplicity of Apple Reminders to get even more done using the 1-3-5 rule. If you're not familiar with this rule yet don't worry, here's the gist:
+In this post I'll show you how to leverage the simplicity of Apple Reminders to get even more done using the 1-3-5 rule:
 
 > On any given day, assume that you can only accomplish one big thing, three medium things, and five small things, and narrow down your to-do list to those nine items. _-_ [_the muse_](https://www.themuse.com/advice/a-better-todo-list-the-135-rule)
 
-In addition the rule suggest to start your day with the chosen 1 big thing - working towards 3 medium and 5 small things. This way you make sure you accomplish the most important task of the day first, thus avoid getting caught by the [urgency effect](https://www.nytimes.com/2018/07/09/smarter-living/eisenhower-box-productivity-tips.html).
+Start your day with the chosen 1 big thing - working towards 3 medium and 5 small things. This way you make sure you accomplish the most important task of the day first, thus avoid getting caught by the [urgency effect](https://www.nytimes.com/2018/07/09/smarter-living/eisenhower-box-productivity-tips.html).
 
 ### How to use priorities in Apple Reminders
 
-To implement the 1-3-5 rule, we need a way to flag our tasks as "big", "medium" or "small" in Apple Reminders. For this we use the reminder's priority:
+To implement the 1-3-5 rule, we need a way to flag our tasks as "big", "medium" or "small". In Apple Reminders we use the reminder's priority for this:
 
 **Low (!)** - a "small" thing  
 **Medium (!!)** - a "medium" thing  
@@ -26,7 +26,7 @@ To implement the 1-3-5 rule, we need a way to flag our tasks as "big", "medium" 
 
 ![](/images/Progress-for-Apple-Reminders-Priorities.jpg)
 
-How to actually decide what's "big", "medium" or "small" is up to you. Experience shows you should test your to-dos against several criteria and choose their belonging according to your guts feeling:
+How to decide what's "big", "medium" or "small" is up to you. Experience shows you should test your to-dos against several criteria and choose their belonging according to your guts feeling:
 
 * How much time does the todo costs you to get done?
 * How much energy does the item costs you to get done?
