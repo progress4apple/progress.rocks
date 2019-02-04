@@ -4,7 +4,7 @@ title: 'Howto: 1-3-5 Rule with Apple Reminders'
 date: 2019-02-04 08:00:00 +0000
 description: Leverage the simplicity of Apple Reminders to get more done with the
   1-3-5 rule.
-image: "/images/Progress-for-Apple-Reminders-Scheduled-List.jpg"
+image: "/images/Progress-for-Apple-Reminders-Priorities.jpg"
 categories:
 - Productivity
 
