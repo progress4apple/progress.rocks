@@ -5,7 +5,7 @@ date: 2019-02-04 08:00:00 +0000
 description: On any given day, assume that you can only accomplish one big thing,
   three medium things, and five small things, and narrow down your to-do list to those
   nine items.
-image: "/images/Howto 1-3-5 Rule with Apple Reminders.gif"
+image: "/images/Progress-for-Apple-Reminders-Scheduled-List.jpg"
 categories:
 - Productivity
 
