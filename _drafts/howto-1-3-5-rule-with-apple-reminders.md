@@ -26,7 +26,7 @@ To implement the 1-3-5 rule, we need a way to flag our tasks as "big", "medium" 
 
 ![](/images/Progress-for-Apple-Reminders-Priorities.jpg)
 
-How to decide what's "big", "medium" or "small" is up to you. Experience shows you should test your to-dos against several criteria and choose their belonging according to your guts feeling:
+How you decide what's "big", "medium" or "small" is up to you. Experience shows you should test your to-dos against several criteria and choose their belonging according to your guts feeling. Here's a brief list of such criteria to kick things off:
 
 * How much time does the todo costs you to get done?
 * How much energy does the item costs you to get done?
@@ -34,7 +34,7 @@ How to decide what's "big", "medium" or "small" is up to you. Experience shows y
 * For how long are you avoiding to work on the to-do?
 * _Insert your personal criteria here ..._
 
-Of course the answer to these questions change over time. So you should revise your tasks regularly.
+Of course the answers to these questions change over time. So you should revise your tasks regularly.
 
 ### Leverage the builtin "Scheduled" list
 
