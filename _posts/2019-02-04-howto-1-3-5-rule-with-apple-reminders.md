@@ -2,15 +2,14 @@
 author_staff_member: marco
 title: 'Howto: 1-3-5 Rule with Apple Reminders'
 date: 2019-02-04 08:00:00 +0000
-description: On any given day, assume that you can only accomplish one big thing,
-  three medium things, and five small things, and narrow down your to-do list to those
-  nine items.
+description: Leverage the simplicity of Apple Reminders to get more done with the
+  1-3-5 rule.
 image: "/images/Progress-for-Apple-Reminders-Scheduled-List.jpg"
 categories:
 - Productivity
 
 ---
-In this post I'll show you how to leverage the simplicity of Apple Reminders to get even more done using the 1-3-5 rule:
+In this post I'll show you how to leverage the simplicity of Apple Reminders to get more done with the 1-3-5 rule:
 
 > On any given day, assume that you can only accomplish one big thing, three medium things, and five small things, and narrow down your to-do list to those nine items. _-_ [_the muse_](https://www.themuse.com/advice/a-better-todo-list-the-135-rule)
 
