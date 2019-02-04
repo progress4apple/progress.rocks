@@ -45,9 +45,11 @@ Celebrate each and every milestone you reach thanks to your habits. And don’t 
 
 If you use Apple Reminders to organise your to-do lists, Progress for Apple Reminders can help you to achieve what you want. Give it a try and let me know what you think!
 
-<!-- <a href="#" target="_blank"> --><img src="/images/App_Store_Badge.svg" alt="Download on the App Store" class="appstore disabled" /> <!-- </a> -->
-
-### Soon in your App Store!
+<p class="cta button">
+  <a href="http://beta.progress.rocks" target="_blank">
+    <strong>Get the Beta now!</strong>
+  </a>
+</p>
 
 Further reading: [Habits vs. Goals: A Look at the Benefits of a Systematic Approach to Life](https://fs.blog/2017/06/habits-vs-goals/), [The Power of Habit by Charles Duhigg](https://itunes.apple.com/de/book/the-power-of-habit/id494604132?mt=11), [The Compound Effect by Darren Hardy](https://itunes.apple.com/us/book/the-compound-effect/id1212219081?mt=11)
 

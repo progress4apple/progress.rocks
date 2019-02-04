@@ -43,6 +43,16 @@ Once you accomplished this, open the „Scheduled“ list of Apple Reminders and
 
 ![The "Scheduled" list of Apple Reminders](/images/Progress-for-Apple-Reminders-Scheduled-List.jpg)
 
-To sum up: We **use priorities together with the ability to set a date and time for any reminder** to end up with a **daily plan in the „Scheduled“ list of Apple Reminders**.
+To sum up: *We use priorities together with the ability to set a date and time for any reminder to end up with a daily plan in the „Scheduled“ list of Apple Reminders*.
+
+### One more thing
+
+If you use Apple Reminders to organise your to-do lists, Progress for Apple Reminders can help you to achieve what you want. Give it a try and let me know what you think!
+
+<p class="cta button">
+  <a href="http://beta.progress.rocks" target="_blank">
+    <strong>Get the Beta now!</strong>
+  </a>
+</p>
 
 Further reading: [A Better To-Do List: The 1-3-5 Rule](https://www.themuse.com/advice/a-better-todo-list-the-135-rule).
