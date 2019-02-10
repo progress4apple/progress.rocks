@@ -14,7 +14,7 @@ First, David advices to "capture all the things ... in a logical and trusted sys
 
 Now, put on your Apple-Universe-Glasses and think about Davids advice for a second. Can you see it? Which App in the Apple universe does fit this description?
 
-![Apple Reminders App Icon](/images/Apple-Reminders-Icon.jpeg)
+![Apple Reminders App Icon](/images/Apple-Reminders-Icon.png)
 
 Exactly, Apple Reminders is the perfect match! It is a "trusted system outside of your head", is available for all Apple platforms and is - through the Share Action - reachable in nearly every App. So one can safely say Apple Reminders is "instantaneous and easy".
 
@@ -26,11 +26,11 @@ Then you know exactly what I'm talking about. And that's the reason, why I came 
 
 Think of it as your personal [Lookout](https://en.wikipedia.org/wiki/Lookout), who reports if the stuff you are doing is in line with your goals - or if you are going to hit some major problem if you don't correct the course.
 
-![Progress for Apple Reminders Edit Report](/images/Edit-Progress-Report-Apple-Reminders.png)
+![Progress for Apple Reminders Edit Report](/images/Edit-Progress-Report-Apple-Reminders-Banner.png)
 
 In Progress for Apple Reminders you can add any kind of reports you like, with or without fixed time periods. For me, breaking down my most important goals to recurring sub-goals (aka. habits) based on a weekly or monthly time period works best. I’ll display these in the available Today Widget and the Widget always reminds me of whats important and if I'm on track. To see it, I simply swipe to the Today Screen.
 
-![Progress for Apple Reminders Today Widget](/images/Progress-Bar-Chart-Apple-Reminders-Today-Widget.png)
+![Progress for Apple Reminders Today Widget](/images/Progress-for-Apple-Reminders-Widget-Banner.jpg)
 
 This is it. The story behind Progress for Apple Reminders and how I use it to achieve my personal and professional goals - while feeling confident on my journey. Give Progress for Apple Reminders a try and let me know what you think. Looking forward hearing from you!
 
