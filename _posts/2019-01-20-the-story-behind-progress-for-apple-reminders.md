@@ -6,7 +6,7 @@ description: How a birds eye view for Apple Reminders helps you to keep on track
 image: "/images/Progress-for-Apple-Reminders-Widget-Banner.jpg"
 categories:
 - Vision
-
+comments: true
 ---
 If you found Progress for Apple Reminders, chances are good you are already familiar with ["Getting Things Done" - David Allens Methodology](https://gettingthingsdone.com) of how to appropriately get shit done. I'm a big fan of the core principles of this methodology also known as  the [GTD Five Steps](https://gettingthingsdone.com/five-steps/).
 

@@ -6,6 +6,7 @@ image: /images/Progress-for-Apple-Reminders-App-Banner.jpg
 categories:
   - "Getting-Started"
 author_staff_member: marco
+comments: true
 ---
 
 A new year has just started and we got a bunch of good resolutions for it. But how shall we keep ourselves accountable in 2019? If you are using Apple Reminders to organize your daily to-dos,
