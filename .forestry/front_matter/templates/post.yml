@@ -34,6 +34,10 @@ fields:
     - marco
   label: Author Staff Member
   default: marco
+- type: boolean
+  name: comments
+  label: Comments
+  description: Allow Comments
 pages:
 - _posts/2019-02-04-howto-1-3-5-rule-with-apple-reminders.md
 - _posts/achieve-your-goals-with-progress-for-apple-reminders.md
