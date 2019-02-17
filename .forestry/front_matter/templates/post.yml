@@ -40,6 +40,7 @@ fields:
   description: Allow Comments
   default: true
 pages:
+- _posts/howto-getting-started-guide.md
 - _posts/2019-02-04-howto-1-3-5-rule-with-apple-reminders.md
 - _posts/achieve-your-goals-with-progress-for-apple-reminders.md
 - _posts/2019-01-28-goals-or-habits.md
