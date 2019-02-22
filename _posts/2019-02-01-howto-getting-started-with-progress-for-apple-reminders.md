@@ -6,7 +6,7 @@ date: 2019-02-17 18:21:00 +0000
 description: Kick things off and start beating the bar.
 image: "/images/Progress-for-Apple-Reminders-Widget-Banner.jpg"
 categories:
-- Productivity
+- productivity
 
 ---
 ## Preliminary notes

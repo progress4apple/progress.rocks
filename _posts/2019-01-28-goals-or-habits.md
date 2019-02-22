@@ -6,7 +6,7 @@ description: The difference between goals and habits - and for which one you sho
   strive for.
 image: "/images/mikito-tateisi-333584-unsplash.jpg"
 categories:
-- Productivity
+- productivity
 comments: true
 ---
 Let’s face it: We all have goals - and [we all procrastinate](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator). Some goals are haunting us for years: Remember the language you wanted to learn? Or the book you wanted to read? For some reason we keep ourselves busy doing other stuff; whether it’s eating out with friends, watching this hot new series on Netflix or doing our Job - it’s hard to make progress on your goals without getting distracted by the overwhelming possibilities and responsibilities in your daily life.
