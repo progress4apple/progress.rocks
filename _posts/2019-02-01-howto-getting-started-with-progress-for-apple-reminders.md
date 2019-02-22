@@ -9,9 +9,6 @@ categories:
 - Productivity
 
 ---
-
-_This guide is a [WIP](https://en.wikipedia.org/wiki/Work_in_process) - if it does not answer your questions, please drop me a line: [support@progress.rocks](mailto:support@progress.rocks)_
-
 ## Preliminary notes
 
 ### Meant as an addition - not as a replacement
