@@ -6,7 +6,7 @@ description: Leverage the simplicity of Apple Reminders to get more done with th
   1-3-5 rule.
 image: "/images/Progress-for-Apple-Reminders-Priorities.jpg"
 categories:
-- Productivity
+- productivity
 comments: true
 ---
 In this post I'll show you how to leverage the simplicity of Apple Reminders to get more done with the 1-3-5 rule:
@@ -19,8 +19,8 @@ Start your day with the chosen 1 big thing - working towards 3 medium and 5 smal
 
 To implement the 1-3-5 rule, we need a way to flag our tasks as "big", "medium" or "small". In Apple Reminders we use the reminder's priority for this:
 
-**Low (!)** - a "small" thing  
-**Medium (!!)** - a "medium" thing  
+**Low (!)** - a "small" thing
+**Medium (!!)** - a "medium" thing
 **High (!!!)** - a "big" thing
 
 ![How to use priorities to flag reminders according to the 1-3-5 rule](/images/Progress-for-Apple-Reminders-Priorities.jpg)
