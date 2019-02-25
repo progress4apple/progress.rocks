@@ -9,3 +9,16 @@ categories:
 - release
 
 ---
+Big thanks to all Beta Testers for their testing effort. I got a lot of positive feedback as well as some criticism. The new beta release is the first step blending your feedback into the actual product.
+
+_Here's what's new in v0.7.0_
+
+### Celebrate your wins
+
+Progress is now able to send you push notifications once you reached a goal. You can enable this on a per report basis by switching on the newly added "Notifications" setting.
+
+![](/images/Progress-for-Apple-Reminders-Whats-New-v0.7.0.jpg)
+
+### Improved User Experience
+
+A lot of people were confused by the user experience of the app. I made a first attempt on improving this by adding an "Add" button on the report creation page in the upper right corner. This should it now make it easy to understand how and when a newly created report is saved.
