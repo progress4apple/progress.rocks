@@ -9,7 +9,7 @@ categories:
 - release
 
 ---
-Big thanks to all Beta Testers for their testing effort. I got a lot of positive feedback as well as some criticism. The new beta release is the first step blending your feedback into the actual product.
+Big thanks to all Beta Testers for their testing effort. I got a lot of positive feedback as well as some criticism. The new beta release is the first attempt blending your feedback into the  product.
 
 _Here's what's new in v0.7.0_
 
