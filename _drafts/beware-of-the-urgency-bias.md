@@ -2,8 +2,7 @@
 author_staff_member: marco
 title: Beware of the urgency bias
 date: 2019-02-05 12:00:00 +0000
-description: If you are serious about reaching your goals, you need to choose wisely
-  whether something deserves your attention or not.
+description: Choose wisely or you’ll get lost along the way.
 image: "/images/nikko-macaspac-263785-unsplash.jpg"
 categories:
 - productivity
