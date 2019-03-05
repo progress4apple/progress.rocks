@@ -21,8 +21,6 @@ If you ever find yourself hunting one “important” task after another, do a r
 
 If you use Apple Reminders to organise your to-do lists, Progress for Apple Reminders can help you to achieve what you want. Give it a try and let me know what you think!
 
-<!-- <a href="#" target="_blank"> --><img src="/images/App_Store_Badge.svg" alt="Download on the App Store" class="appstore disabled" /> <!-- </a> -->
-
-### Soon in your App Store!
+<p class="cta button"> <a href="[http://beta.progress.rocks](http://beta.progress.rocks "http://beta.progress.rocks")" target="_blank"> <strong>Get the Beta now!</strong> </a> </p>
 
 Photo by [nikko macaspac](https://unsplash.com/photos/6SNbWyFwuhk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/stress?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
