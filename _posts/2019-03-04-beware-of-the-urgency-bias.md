@@ -6,7 +6,7 @@ description: Choose wisely or you’ll get lost along the way.
 image: "/images/nikko-macaspac-263785-unsplash.jpg"
 categories:
 - productivity
-comments: false
+comments: true
 
 ---
 If you are serious about reaching your goals, you need to choose wisely whether something deserves your attention or not - otherwise you’ll get lost along the way.
