@@ -1,7 +1,7 @@
 ---
 author_staff_member: marco
 title: Beware of the urgency bias
-date: 2019-02-05 12:00:00 +0000
+date: 2019-03-04 17:37:00 +0000
 description: Choose wisely or you’ll get lost along the way.
 image: "/images/nikko-macaspac-263785-unsplash.jpg"
 categories:
