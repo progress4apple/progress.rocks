@@ -25,7 +25,7 @@ My decision to create one Today-Widget per period lead to a lot of confusion amo
 
 ### Minor fixes and improvements
 
-There are other areas which also got some love:
+The following areas also got some love:
 
 * Emojis do no longer have any text shadow
 * "Search term" is displayed exactly like the input
