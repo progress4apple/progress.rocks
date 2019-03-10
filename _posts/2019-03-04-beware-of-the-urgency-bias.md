@@ -1,13 +1,12 @@
 ---
 author_staff_member: marco
 title: Beware of the urgency bias
-date: 2019-02-05 12:00:00 +0000
-description: If you are serious about reaching your goals, you need to choose wisely
-  whether something deserves your attention or not.
+date: 2019-03-04 17:37:00 +0000
+description: Choose wisely or you’ll get lost along the way.
 image: "/images/nikko-macaspac-263785-unsplash.jpg"
 categories:
 - productivity
-comments: false
+comments: true
 
 ---
 If you are serious about reaching your goals, you need to choose wisely whether something deserves your attention or not - otherwise you’ll get lost along the way.
@@ -22,8 +21,10 @@ If you ever find yourself hunting one “important” task after another, do a r
 
 If you use Apple Reminders to organise your to-do lists, Progress for Apple Reminders can help you to achieve what you want. Give it a try and let me know what you think!
 
-<!-- <a href="#" target="_blank"> --><img src="/images/App_Store_Badge.svg" alt="Download on the App Store" class="appstore disabled" /> <!-- </a> -->
-
-### Soon in your App Store!
+<p class="cta button">
+  <a href="http://beta.progress.rocks" target="_blank">
+    <strong>Get the Beta now!</strong>
+  </a>
+</p>
 
 Photo by [nikko macaspac](https://unsplash.com/photos/6SNbWyFwuhk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/stress?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
