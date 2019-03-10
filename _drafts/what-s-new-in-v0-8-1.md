@@ -29,6 +29,6 @@ The following areas also got some love:
 
 * Emojis do no longer have any text shadow.
 * "Search term" is displayed exactly like the input.
-* Improved memory handling of Today-Widget to avoid "Unable to load" messages of the Today-Widget.
+* Improved memory handling of Today-Widget to avoid "Unable to load" system errors.
 * Fixed bug that prevented disabling Notifications.
 * Added a GIPHY attribution to the push notifications
