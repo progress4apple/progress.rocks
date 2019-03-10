@@ -15,7 +15,7 @@ _Here's what's new in v0.8.1_
 
 ### All new report form
 
-The report form has an all new design. By providing a live preview on top and descriptions below each section the whole configuration experience became a whole lot better. You are now able to instantly see how the report is affected by each setting.
+The report form has an all new design: By providing a live preview on top and descriptions below each section the whole configuration experience became a whole lot better. You are now even able to instantly see how the report is affected by each setting.
 
 ### All new Today-Widget
 
