@@ -9,7 +9,7 @@ categories:
 comments: true
 
 ---
-I'm so happy to announce this release. It's the direct result of all your feedback and thoughts. I hope you like it as much as I do.
+I'm so happy to announce this release: It's the result of all your feedback and thoughts and I hope you like it as much as I do.
 
 _Here's what's new in v0.8.1_
 
@@ -21,4 +21,11 @@ The report form has an all new design. By providing a live preview on top and de
 
 ### All new Today-Widget
 
-My decision to create one Today-Widget for each period lead to a lot of confusion amongst users. In this release I'm addressing this issue with the all new "Status" Today-Widget. It's capable to show all of your reports within the same Today-Widget. Simply enable "Show in Today-Widget" in your report and add the "Status" Widget to the Today-Screen and you're all set. This even works for "overall" periods!
+My decision to create one Today-Widget per period lead to a lot of confusion amongst users. In this release I'm addressing this with the all new "Status" Today-Widget. It's capable to show all of your reports in the same Widget. Simply enable "Show in Today-Widget" in your report and add the "Status" Widget to the Today-Screen - and you're all set. This works for all periods - even for "overall"!
+
+### Minor fixes and improvements
+
+There are other areas which also got some love:
+
+* Emojis do no longer have any text shadow
+* "Search term" is displayed exactly like the input
