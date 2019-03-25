@@ -39,7 +39,7 @@ fields:
   description: Allow Comments
   default: true
 pages:
-- _posts/to-act-is-the-most-natural-way-of-feeling.md
+- _posts/2019-03-25-to-act-is-the-most-natural-way-of-feeling.md
 - _posts/2019-03-01-what-s-new-in-v0-8-1.md
 - _posts/2019-03-04-beware-of-the-urgency-bias.md
 - _posts/2019-02-25-what-s-new-in-v0-7-0.md
