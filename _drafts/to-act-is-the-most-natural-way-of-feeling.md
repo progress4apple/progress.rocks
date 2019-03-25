@@ -32,4 +32,10 @@ Allow yourself a break after 20 minutes to observe your feelings. If you're stil
 
 You'll be surprised how fast 20mins are over and you'll likely find yourself keep going. And if you really don't want to continue: Don't worry! You should be proud of you anyways, since you managed to get started - which was the hardest part after all!
 
+<p class="cta button">
+<a href="http://beta.progress.rocks" target="_blank">
+<strong>Get the Beta now!</strong>
+</a>
+</p>
+
 Photo by [Matthew Henry](https://unsplash.com/photos/2Ts5HnA67k8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
