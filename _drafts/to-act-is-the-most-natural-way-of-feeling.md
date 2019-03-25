@@ -20,13 +20,11 @@ And there is another ingrained part of human psychology: The mere act of **doing
 
 Keep this in mind, next time you lurking around and wear a pajama all day long: Your behaviour highly affects the reasoning why you don't feel like starting this long-overdue project on such a day.
 
-Keep this in mind as well next time you start to feel bad about your lack of achievement: This terrible feelings can lead to even more harmful behaviours - and before you knew it
+Also keep this in mind when you start to feel bad about your lack of achievement: Such terrible feelings can lead to even more harmful behavior - and before you knew it you are trapped in your own, self-made negative momentum.
 
-your trapped in your own, self made negative momentum.
+To break free, you need to acknowledge that **your behavior is not part of your personality**. It's just that: A behavior. No more, no less. And a behavior can be chosen:
 
-Be aware that **your behaviour is not part of your personality**. It's just that: A behaviour. Nothing more, nothing less. And a behaviour can be chosen:
-
-Instead of lurking around in a pajama choose to dress yourself properly. Don't wait until you feel motivated to get started, choose to get started straight away with a little twist:
+Instead of lurking around in a pajama, choose to dress yourself properly. Don't wait until you feel motivated to get started, choose to get started straight away with a little twist:
 
 Allow yourself a break after 20 minutes to observe your feelings. If you're still struggling to motivate you by then, allow you to quit for the day and try again another day.
 
