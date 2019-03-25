@@ -28,7 +28,7 @@ Instead of lurking around in a pajama, choose to dress yourself properly. Don't 
 
 Allow yourself a break after 20 minutes to observe your feelings. If you're still struggling to motivate you by then, allow you to quit for the day and try again another day.
 
-You'll be surprised how fast 20 minutes are over and you'll likely find yourself keep going. And if you really don't feel motivated enough to keep going: Don't worry! You should be proud of you anyways, since you managed to get started - which was the hardest part after all!
+You'll be surprised how fast 20 minutes are over and you'll likely find yourself keep going. And if you really don't feel motivated enough to keep going: That's fine! You should be proud of you anyways, since you managed to get started - which was the hardest part after all!
 
 If you use Apple Reminders to organise your to-do lists, Progress for Apple Reminders can help you to achieve what you want. Give it a try and let me know what you think!
 
