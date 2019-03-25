@@ -3,7 +3,7 @@ author_staff_member: marco
 comments: true
 title: To act is the most natural way of feeling.
 date: 2019-03-25 17:00:00 +0000
-description: This is for you if your struggling to reach your goals because you don't
+description: This is for you, if your struggling to reach your goals because you don't
   feel like kicking things off.
 image: "/images/matthew-henry-58760-unsplash.jpg"
 categories:
