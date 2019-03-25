@@ -30,6 +30,8 @@ Allow yourself a break after 20 minutes to observe your feelings. If you're stil
 
 You'll be surprised how fast 20 minutes are over and you'll likely find yourself keep going. And if you really don't feel motivated enough to keep going: Don't worry! You should be proud of you anyways, since you managed to get started - which was the hardest part after all!
 
+If you use Apple Reminders to organise your to-do lists, Progress for Apple Reminders can help you to achieve what you want. Give it a try and let me know what you think!
+
 <p class="cta button">
 <a href="http://beta.progress.rocks" target="_blank">
 <strong>Get the Beta now!</strong>
