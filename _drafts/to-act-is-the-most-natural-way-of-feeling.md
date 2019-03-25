@@ -10,7 +10,7 @@ categories:
 - productivity
 
 ---
-It's a mystery we all need to accept at some point: Getting started seems like the hardest thing to do - where else keeping things rollin' seems rather easy in comparison.
+It's a mystery we all need to accept at some point: Getting started seems like the hardest thing to do - where else keep things rollin' seems rather easy in comparison.
 
 That's why we get stuck in our comfort zone, adhere to bad habits or can't seem to find some spare time to start this long-overdue project we had in mind for years.
 
@@ -18,7 +18,7 @@ And there is another ingrained part of human psychology: The mere act of **doing
 
 > You’re more likely to act yourself into feeling than feel yourself into action. _- Dr. Jerome Bruner_
 
-Keep this in mind, next time you lurking around and wear a pajama all day long: Your behaviour highly affects the reasoning why you don't feel like starting this long-overdue project on such a day.
+Next time you lurking around and wear a pajama all day long keep this in mind: Your behaviour highly affects the reasoning why you don't feel like starting this long-overdue project on such a day.
 
 Also keep this in mind when you start to feel bad about your lack of achievement: Such terrible feelings can lead to even more harmful behavior - and before you knew it you are trapped in your own, self-made negative momentum.
 
