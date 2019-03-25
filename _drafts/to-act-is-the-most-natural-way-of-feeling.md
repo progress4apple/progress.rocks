@@ -16,7 +16,7 @@ That's why we get stuck in our comfort zone, adhere to bad habits or can't seem 
 
 And there is another ingrained part of human psychology: The mere act of **doing creates an emotional impact in you**.
 
-> You’re more likely to act yourself into feeling than feel yourself into action. _- Dr. Jerome Bruner_
+> You’re more likely to act yourself into feeling than feel yourself into action. *- Dr. Jerome Bruner*
 
 Keep this in mind, next time you lurking around and wear a pajama all day long. Your behaviour highly affects the reasoning why you don't feel like starting this long-overdue project on such a day.
 
