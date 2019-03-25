@@ -14,9 +14,9 @@ It's a mystery we all need to accept at some point: Getting started seems like t
 
 That's why we get stuck in our comfort zone, adhere to bad habits or can't seem to find some spare time to start this long-overdue project we had in mind for years.
 
-And there is another ingrained part of human psychology: The mere fact of **doing creates an emotional impact in you**.
+And there is another ingrained part of human psychology: The mere act of **doing creates an emotional impact in you**.
 
-"You’re more likely to act yourself into feeling than feel yourself into action." - Dr. Jerome Bruner
+> You’re more likely to act yourself into feeling than feel yourself into action. _- Dr. Jerome Bruner_
 
 Keep this in mind, next time you lurking around and wear a pajama all day long. Your behaviour highly affects the reasoning why you don't feel like starting this long-overdue project on such a day.
 
@@ -30,4 +30,4 @@ Instead of lurking around in a pajama choose to dress yourself properly. Don't w
 
 Allow yourself a break after 20 minutes to observe your feelings. If you're still struggling to motivate you by then, allow you to quit for the day and try again the other day.
 
-You'll be surprised how fast 20mins are over and you'll likely find yourself keep going. And if you really don't want to continue: Don't worry! You should be proud of you anyways, since you managed to get started - which was the hardest thing after all!
+You'll be surprised how fast 20mins are over and you'll likely find yourself keep going. And if you really don't want to continue: Don't worry! You should be proud of you anyways, since you managed to get started - which was the hardest part after all!
