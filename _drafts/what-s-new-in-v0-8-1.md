@@ -1,34 +1,20 @@
 ---
 author_staff_member: marco
-title: What's new in v0.8.1
+title: What's new in v0.9.0
 date: 2019-03-10 15:17:00 +0000
-description: All new report form and Today-Widget
+description: Receive notifications along the way
 image: "/images/Edit-Progress-Report-Apple-Reminders-Banner.png"
 categories:
 - release
 comments: true
 
 ---
-I'm incredible happy to announce this release: It's the immediate result of all your feedback and thoughts. I hope you like it as much as I do.
+The new version of Progress for Apple Reminders is ready! Apart from the usual bugfixes it comes with a neat new feature, which hopefully provides a huge impact on your overall achievements:
 
-_Here's what's new in v0.8.1_
+### Receive notifications along the way
 
-### All new report form
+If you turn on the notifications feature for a report, you will now receive notifications along the way to keep you motivated! 🎉🎉
 
-The report form has an all new design: By providing a live preview on top and descriptions below each section the whole configuration experience became a whole lot better. You are now even able to instantly see how the report is affected by each setting.
+The notifications are sent in the early evening, somewhen between 3-9 pm. This way you are able to correct course for the following days if needed. Depending on how far away your deadline is you are either notified at the end of the week or daily.
 
-### All new Today-Widget
-
-My decision to create one Today-Widget per period lead to a lot of confusion amongst users. In this release I'm addressing this with the all new "Status" Today-Widget. It's capable to show all of your reports in the same Widget. Simply enable "Show in Today-Widget" in your report and add the "Status" Widget to the Today-Screen - and you're all set. This works for all periods - even for "overall"!
-
-![](/images/Progress-for-Apple-Reminders-Widget-Banner.jpg)
-
-### Minor fixes and improvements
-
-The following areas also got some love:
-
-* Emojis do no longer have any text shadow.
-* "Search term" is displayed exactly like the input.
-* Improved memory handling of Today-Widget to avoid "Unable to load" system errors.
-* Fixed bug which prevent disabling Notifications.
-* Added a GIPHY attribution to the push notifications
+If you are using the overall period please make sure you are also set a deadline for the report. Otherwise Progress is not able to calculate whether you're on track or not.
