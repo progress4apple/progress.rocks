@@ -1,7 +1,7 @@
 ---
 author_staff_member: marco
 title: What's new in v0.9.0
-date: 2019-03-10 15:17:00 +0000
+date: 2019-04-15 18:17:00 +0000
 description: Receive notifications along the way
 image: "/images/Edit-Progress-Report-Apple-Reminders-Banner.png"
 categories:
