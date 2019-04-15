@@ -1,6 +1,6 @@
 ---
 author_staff_member: marco
-title: What's new in v0.9.0
+title: What's new in v0.9.1
 date: 2019-04-15 18:17:00 +0000
 description: Receive notifications along the way
 image: "/images/Edit-Progress-Report-Apple-Reminders-Banner.png"
@@ -9,7 +9,7 @@ categories:
 comments: true
 
 ---
-The new version of Progress for Apple Reminders is ready! Apart from the usual bugfixes it comes with a neat new feature, which hopefully provides a huge impact on your overall achievements:
+The new version of Progress for Apple Reminders is ready! Apart from the usual bugfixes it comes with a neat new feature, which hopefully provides a huge impact on your overall achievement score:
 
 ### Receive notifications along the way
 
