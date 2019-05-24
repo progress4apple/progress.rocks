@@ -6,6 +6,7 @@ date: 2019-05-25 15:12:00 +0000
 description: Time to celebrate! Your Apple Reminders companion made it to the App
   Store!
 image: ''
-categories: []
+categories:
+- release
 
 ---
