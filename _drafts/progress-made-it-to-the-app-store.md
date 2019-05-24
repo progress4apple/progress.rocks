@@ -20,8 +20,6 @@ Especially, I'd like to thank all of you which gave the Beta version a test ride
 Thanks again, I', really enjoying having you on this journey.  
 Marco
 
-<a href="[https://appstore.com/progress-for-apple-reminders](https://appstore.com/progress-for-apple-reminders "https://appstore.com/progress-for-apple-reminders")" target="_blank" class="appstore">
-<img src="/images/App_Store_Badge.svg" alt="Download on the App Store" />
-</a>
+<a href="https://appstore.com/progress-for-apple-reminders" target="_blank" class="appstore"><img src="/images/App_Store_Badge.svg" alt="Download on the App Store" /></a>
 
 GIF provided by [GIPHY](https://giphy.com/gifs/party-the-office-hard-l0MYt5jPR6QX5pnqM)
