@@ -49,9 +49,9 @@ To sum up: *We use priorities together with the ability to set a date and time f
 
 If you use Apple Reminders to organise your to-do lists, Progress for Apple Reminders can help you to achieve what you want. Give it a try and let me know what you think!
 
-<p class="cta button">
-  <a href="http://beta.progress.rocks" target="_blank">
-    <strong>Get the Beta now!</strong>
+<p>
+  <a href="https://appstore.com/progress-for-apple-reminders" target="_blank" class="appstore">
+    <img src="/images/App_Store_Badge.svg" alt="Download on the App Store" />
   </a>
 </p>
 

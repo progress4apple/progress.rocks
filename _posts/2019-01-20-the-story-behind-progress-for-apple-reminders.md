@@ -34,8 +34,8 @@ In Progress for Apple Reminders you can add any kind of reports you like, with o
 
 This is it. The story behind Progress for Apple Reminders and how I use it to achieve my personal and professional goals - while feeling confident on my journey. Give Progress for Apple Reminders a try and let me know what you think. Looking forward hearing from you!
 
-<p class="cta button">
-  <a href="http://beta.progress.rocks" target="_blank">
-    <strong>Get the Beta now!</strong>
+<p>
+  <a href="https://appstore.com/progress-for-apple-reminders" target="_blank" class="appstore">
+    <img src="/images/App_Store_Badge.svg" alt="Download on the App Store" />
   </a>
 </p>

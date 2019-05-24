@@ -94,3 +94,9 @@ To see the progress bar in the Today-Screen, make sure you've enabled "Show in T
 ## Get creative
 
 This guide should give you a brief idea of what's possible with Progress for Apple Reminders. Now start defining your goals, add reports and start beating the bar!
+
+<p>
+  <a href="https://appstore.com/progress-for-apple-reminders" target="_blank" class="appstore">
+    <img src="/images/App_Store_Badge.svg" alt="Download on the App Store" />
+  </a>
+</p>

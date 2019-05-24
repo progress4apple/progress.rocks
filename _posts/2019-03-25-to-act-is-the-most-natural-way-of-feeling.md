@@ -32,10 +32,10 @@ You'll be surprised how fast 20 minutes are over and you'll likely find yourself
 
 If you use Apple Reminders to organise your to-do lists, Progress for Apple Reminders can help you to achieve what you want. Give it a try and let me know what you think!
 
-<p class="cta button">
-<a href="http://beta.progress.rocks" target="_blank">
-<strong>Get the Beta now!</strong>
-</a>
+<p>
+  <a href="https://appstore.com/progress-for-apple-reminders" target="_blank" class="appstore">
+    <img src="/images/App_Store_Badge.svg" alt="Download on the App Store" />
+  </a>
 </p>
 
 Photo by [Matthew Henry](https://unsplash.com/photos/2Ts5HnA67k8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
