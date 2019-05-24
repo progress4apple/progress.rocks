@@ -39,7 +39,7 @@ fields:
   description: Allow Comments
   default: true
 pages:
-- "_posts/\U0001F389-progress-made-it-\U0001F389.md"
+- _posts/progress-made-it-to-the-app-store.md
 - _posts/2019-04-15-what-s-new-in-v0-9-1.md
 - _posts/2019-03-04-beware-of-the-urgency-bias.md
 - _posts/2019-02-25-what-s-new-in-v0-7-0.md
