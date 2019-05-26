@@ -15,7 +15,7 @@ Today Progress for Apple Reminders made it to the Apple App Store! It's now avai
 
 I'd like to step back for a moment and thank all of you which made this release possible: Thank you, for all your feedback. Thank you, for all your ideas. Without your thoughts this wouldn't have been possible at all.
 
-Especially, I'd like to thank all of you which gave the Beta version a test ride. Because of this, I prepared a little gift for you: You'll receive a promo code to download Progress for free. Even more, it allows you to download any future updates for free too. That said, you'll be able to use Progress without paying a dime - forever!
+Especially, I'd like to thank all of you which gave the Beta version a test ride and provided feedback. I prepared a little gift for those: You'll receive a promo code to download Progress for free. Even more, it allows you to download any future updates for free too. Simply put: You'll be able to use Progress without paying a dime - forever!
 
 Thanks again, I really enjoy having you on this journey.  
 Marco
