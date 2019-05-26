@@ -25,7 +25,7 @@ Once you've set your goals you can easily keep yourself accountable with reports
 Let's start chasing your goals for 2019!
 
 <p>
-  <a href="https://appstore.com/progress-for-apple-reminders" target="_blank" class="appstore">
+  <a href="https://itunes.apple.com/us/app/progress-for-apple-reminders/id1450818073?mt=8&ign-mpt=uo%3D2" target="_blank" class="appstore">
     <img src="/images/App_Store_Badge.svg" alt="Download on the App Store" />
   </a>
 </p>

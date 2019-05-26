@@ -46,7 +46,7 @@ Celebrate each and every milestone you reach thanks to your habits. And don’t 
 If you use Apple Reminders to organise your to-do lists, Progress for Apple Reminders can help you to achieve what you want. Give it a try and let me know what you think!
 
 <p>
-  <a href="https://appstore.com/progress-for-apple-reminders" target="_blank" class="appstore">
+  <a href="https://itunes.apple.com/us/app/progress-for-apple-reminders/id1450818073?mt=8&ign-mpt=uo%3D2" target="_blank" class="appstore">
     <img src="/images/App_Store_Badge.svg" alt="Download on the App Store" />
   </a>
 </p>
