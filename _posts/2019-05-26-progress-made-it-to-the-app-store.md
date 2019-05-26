@@ -13,9 +13,9 @@ Time to celebrate! 🎉
 
 Today Progress for Apple Reminders made it to the Apple App Store! It's now available for an affordable, one time purchase of $2.99.
 
-I'd like to step back for a moment and thank all of you which made this release possible: Thank you, for all your feedback. Thank you, for all your ideas. Without your thoughts this wouldn't have been possible at all.
+I'd like to step back for a moment and thank all of you which made this release possible: Thank you, for all your feedback. Thank you, for all your ideas. Without these insights this wouldn't have been possible at all.
 
-Especially, I'd like to thank all of you which gave the Beta version a test ride and provided feedback. I prepared a little gift for those: You'll receive a promo code to download Progress for free. Even more, it allows you to download any future updates for free too. Simply put: You'll be able to use Progress without paying a dime - forever!
+Special thanks to all of you which gave the Beta version a test ride and took the time to share their thoughts. As a little gift you'll receive a promo code to download Progress for free. Even more, it allows you to download any future updates for free too. Simply put: You'll be able to use Progress without paying a dime - forever!
 
 Thanks again, I really enjoy having you on this journey.  
 Marco
