@@ -2,7 +2,7 @@
 author_staff_member: marco
 comments: true
 title: Progress made it to the App Store!
-date: 2019-05-25 15:12:00 +0000
+date: 2019-05-26 15:12:00 +0000
 description: Let's celebrate! Your Apple Reminders companion made it to the App Store!
 image: "/images/The-Office-Party-Hard.gif"
 categories:
