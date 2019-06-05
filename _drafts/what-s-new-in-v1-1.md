@@ -21,7 +21,7 @@ You can publish your opinion about Progress by **tapping "..." in the upper left
 
 As long as you didn't create any App Review, Progress will request you to create one - but don't worry, it does it in a quite modest way. The request is displayed only if:
 
-* you did not create an App Review
+* you did not create an App Review yet
 * and you are using Progress for more than five days
 * and you worked already quite a bit with Progress
 * and the last prompt is more than 100 days ago
