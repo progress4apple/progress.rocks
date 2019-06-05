@@ -17,15 +17,16 @@ I love to put you in charge to steer the direction of where Progress is heading.
 
 ### How it works
 
-You can leave your opinion right in Progress by **tapping ".." and then "Review in App Store"**.
+You can publish your opinion about Progress by **tapping ".." and then "Review in App Store"**.
 
-If you don't go down the manual route, Progress will prompt you to create a review - but don't worry, it does it in a quite cautious way. The Prompt is displayed only if:
+As long as you didn't add any App Review, Progress will prompt you to create one - but don't worry, it does it in a quite modest way. The Prompt is displayed only if:
 
-* you are using Progress for more than five days
+* you did not create an App Review
+* and you are using Progress for more than five days
 * and you worked already quite a bit with Progress
 * and the last prompt is more than 100 days ago
 
-**There you go: App Reviews. That's v1.1. Please leave an App Review as soon as you find some time, it would mean the world to me!**
+**This is it for now. App Reviews. That's v1.1. Please leave an App Review as soon as you find some time, it would mean the world to me!**
 
 <p>
 <a href="https://itunes.apple.com/us/app/progress-for-apple-reminders/id1450818073?mt=8&ign-mpt=uo%3D2" target="_blank" class="appstore">
