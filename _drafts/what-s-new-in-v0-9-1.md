@@ -2,29 +2,33 @@
 author_staff_member: marco
 title: What's new in v0.9.1
 date: 2019-04-15T18:17:00.000+00:00
-description: Receive notifications along the way
-image: "/images/Progress-for-Apple-Reminders-Notifications-Speed-Up.gif"
+description: Create an App Review.
+image: "/images/Progress-for-Apple-Reminders-App-Review-Banner.png"
 categories:
 - release
 comments: true
 
 ---
-The new version of Progress for Apple Reminders is ready! Apart from the usual bugfixes it comes with a neat new feature, which hopefully provides a huge impact on your overall achievement score:
+The new version of Progress for Apple Reminders just left the building! This time it's a small one, where I focused primarily on one thing: Creating an App Review.
 
-### Receive notifications along the way
+### Creating an App Review
 
-If you turn on the notifications feature for a report, you will now receive notifications along the way to keep you motivated! 🎉🎉
+I love to put you in charge to steer the direction of where Progress is heading. Thus, I wanted to make the conversation about the good, the bad and the ugly (if any) publicly available. By creating App Reviews, you can help any App Store Visitor to decide whether Progress is the right fit for their Use Case or not - at the same time you're providing me useful Insights about which features or bugs to tackle next!
 
-The notifications are sent somewhen after 3pm<sup><a href="#exact-time-of-delivery">1</a></sup>. This way you are able to correct course for the following days if needed. Depending on how far away your deadline is you are either notified at the end of the week or daily.
+### How it works
 
-If you are using the overall period please make sure you are also set a deadline for the report. Otherwise Progress is not able to calculate whether you're on track or not.
+You can leave your opinion right in Progress by **tapping ".." and then "Review in App Store"**.
 
-![](/images/Progress-for-Apple-Reminders-Notifications-Nice.gif)
+If you don't go down the manual route, Progress will prompt you to create a review - but don't worry, it does it in a quite cautious way. The Prompt is displayed only if:
 
-<sup><a name="exact-time-of-delivery">1</a></sup> _the exact time of delivery ultimately depends on iOS. The system takes various criteria into account such as battery life or internet connection quality. In any case you should receive the notifications somewhen between 3 - 10pm._
+* you are using Progress for more than five days
+* and you worked already quite a bit with Progress
+* and the last prompt is more than 100 days ago
+
+**There you go: App Reviews. That's v1.1. Please leave an App Review as soon as you find some time, it would mean the world to me!**
 
 <p>
-  <a href="https://itunes.apple.com/us/app/progress-for-apple-reminders/id1450818073?mt=8&ign-mpt=uo%3D2" target="_blank" class="appstore">
-    <img src="/images/App_Store_Badge.svg" alt="Download on the App Store" />
-  </a>
+<a href="https://itunes.apple.com/us/app/progress-for-apple-reminders/id1450818073?mt=8&ign-mpt=uo%3D2" target="_blank" class="appstore">
+<img src="/images/App_Store_Badge.svg" alt="Download on the App Store" />
+</a>
 </p>
