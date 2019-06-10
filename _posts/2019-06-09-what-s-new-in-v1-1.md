@@ -28,6 +28,20 @@ As long as you didn't create any App Review, Progress will request you to create
 
 **This is it for now. App Reviews. That's v1.1. Please leave an App Review as soon as you find some time, it would mean the world to me!**
 
+### UPDATE: "You must own this item to write a Customer Review"
+
+It's not you, it's me. I made a mistake. Read on if you get an "_You must own this item to write a Customer Review_" error message.
+
+![](/images/Progress-for-Apple-Reminders-You-Must-Own-This-Item-Banner.png)
+
+Turns out Apple treats apps installed using promo codes different than regular app downloads:
+
+> When a user has used a promo code to download the app, Apple treats them as not 'owning' the app. Only if a user chooses to download an app normally from the store does it work. Once a promo code has been used, it is not possible for that user to submit a review at all.
+
+That said, don't worry if you encounter this error - it only means you installed the app with a promo code. You still have and always will get free updates for Progress. I was simply not aware of this subtle difference and I'm sorry for any inconvinience this may caused.
+
+Of course you're still able to reach out with any question or feedback you may have by writing an E-Mail to: [support@progress.rocks](mailto:support@progress.rocks).
+
 <p>
 <a href="https://itunes.apple.com/us/app/progress-for-apple-reminders/id1450818073?mt=8&ign-mpt=uo%3D2" target="_blank" class="appstore">
 <img src="/images/App_Store_Badge.svg" alt="Download on the App Store" />
