@@ -1,6 +1,6 @@
 ---
 author_staff_member: marco
-title: What's new in v1.1
+title: What's new in v1.2
 date: 2019-06-09 15:04:00 +0000
 description: Create an App Review.
 image: "/images/Progress-for-Apple-Reminders-App-Review-Banner.png"
