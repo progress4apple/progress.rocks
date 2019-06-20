@@ -2,7 +2,7 @@
 author_staff_member: marco
 title: What's new in v1.2
 date: 2019-06-23 16:27:00 +0000
-description: Swift 5 + Bugfixes
+description: Swift 5 & Bugfixes
 image: "/images/whats-new-in-1-2-super-mario.gif"
 categories:
 - release
