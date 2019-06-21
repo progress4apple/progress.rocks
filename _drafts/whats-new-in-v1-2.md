@@ -9,7 +9,7 @@ categories:
 comments: true
 
 ---
-Neither big bells and whistles nor new features this time. Just ordinary improvements. It's safe to say we are fully in line with the [Zombieland rule #32: "Enjoy the little things"](https://www.youtube.com/watch?v=Hp2W0Lylzrs) with this update.
+Neither big bells and whistles nor new features this time. Just ordinary improvements. With this update it's safe to say we are fully in line with the [Zombieland rule #32: "Enjoy the little things"](https://www.youtube.com/watch?v=Hp2W0Lylzrs).
 
 ### 🌟 Swift 5
 
@@ -25,7 +25,7 @@ Under certain circumstances a delete confirmation dialog was shown while the use
 
 If the user set a custom number as goal for a report with the "overall" period, the user defined number was ignored. Instead Progress wrongly calculated the score of all available reminders and assumed this is the goal the user wants to achieve. This behaviour has been fixed.
 
-**Progress v1.2 - this is it. If you have any question of feedback, drop me a line:** [**support@progress.rocks**](mailto:support@progress.rocks)
+**Progress v1.2 - this is it. As always, if you have any question of feedback just drop me a line:** [**support@progress.rocks**](mailto:support@progress.rocks)
 
 _If you use Apple Reminders to organise your to-do lists, Progress for Apple Reminders can help you to achieve what you want. Give it a try and let me know what you think!_
 
