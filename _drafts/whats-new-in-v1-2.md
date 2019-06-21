@@ -13,9 +13,9 @@ Neither big bells and whistles nor new features this time. Just ordinary improve
 
 ### 🌟 Swift 5
 
-The upgrade to Swift 5 is undeniably the biggest change in this release. The programming language from Apple matures and so does Progress. Swift 5 was published in March 2019, so it's time for Progress to catch up. From a user perspective you won't notice any difference for now. Here's what Apple has to say about the benefits of Swift 5:
+The upgrade to Swift 5 is undeniably the biggest change in this release. The programming language from Apple matures and so does Progress. From a user perspective you won't notice any difference for now. Here's what Apple has to say about the benefits of Swift 5:
 
-> Swift 5 makes it dramatically easier to release your apps. Because the Swift runtime is now built into iOS, macOS, tvOS, and watchOS, your app no longer needs to bundle this library for these latest OS releases. Users who download an app built with Swift from the App Store will get a smaller app and a faster download. - [Apple](https://developer.apple.com/swift/)
+> ... the Swift runtime is now built into iOS, macOS, tvOS, and watchOS ... Users who download an app built with Swift from the App Store will get a smaller app and a faster download. - [Apple](https://developer.apple.com/swift/)
 
 ### 🐞 Delete confirmation when adding a report
 
