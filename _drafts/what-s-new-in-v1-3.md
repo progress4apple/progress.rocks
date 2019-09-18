@@ -9,7 +9,7 @@ categories:
 comments: true
 
 ---
-Hope you all enjoyed the summer break! I absolutely did - and I also used the time to work on Progress. Today I'm able to share some exciting news with you!
+Hope you guys enjoyed the summer break! I absolutely did - and I also used my spare time to work on Progress. Today I'm able to share some exciting news with you!
 
 ### 🌓 Light Mode
 
