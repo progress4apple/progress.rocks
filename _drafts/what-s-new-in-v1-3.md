@@ -19,7 +19,7 @@ As you might noticed, iOS as well as iPadOS 13 brings you a new and quite cool f
 
 ### 📱 iPadOS
 
-Another major improvement is the official support for iPadOS from this release on. So if you prefer to keep track of your achievements on your iPad - go for it!
+Another major improvement is the official support for iPadOS from this release on. So if you prefer to keep track of your achievements on your iPad - you now can!
 
 ... BILD von iPad (Portrait) ...
 
