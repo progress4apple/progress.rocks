@@ -11,11 +11,13 @@ comments: true
 ---
 Hope you all enjoyed the summer break! I absolutely did - but I also used the time share some exciting news with you today!
 
-### 🌞 Light Mode
+### 🌓 Light Mode
 
 As you might noticed, iOS as well as iPadOS 13 come with a new and quite hyped feature: [Dark Mode](https://www.macrumors.com/how-to/enable-dark-mode-in-ios-13/). Since Progress was already dark by default, I'm somewhat proud to present the all new and shiny Light Mode! And before you ask, yes I've gone the extra mile: Progress automatically switches between Light and Dark Mode depending on your system settings 🥳.
 
 ..... ZWEIGETEILTES BILD DARK/LIGHT MODE ...
+
+iPadOS
 
 Neither big bells and whistles nor new features this time. Just ordinary improvements. With this update it's safe to say we are fully in line with the [Zombieland rule #32: "Enjoy the little things"](https://www.youtube.com/watch?v=Hp2W0Lylzrs).
 
