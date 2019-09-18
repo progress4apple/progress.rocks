@@ -23,9 +23,9 @@ Another major improvement is the official support for iPadOS from this release o
 
 ... BILD von iPad (Portrait) ...
 
-### 🌟 _ProgressKit_ is now Open Source
+### 🌟 ProgressKit is now Open Source
 
-Last but not least, I'm releasing the reporting engine of Progress as Open Source. It's the heart of Progress and contians nearly all logic and rendering functionality. The SDK is called _ProgressKit_ and is released under MIT License. That said, you are basically free to use it in any way you like. For example, if you want to build your own piece of Software which creates reports based on Apple Reminders - give it a shot! Further information is available on the [SDK's documentation](https://sdk.progress.rocks/) - just click "SDK" in the main navigation of the Progress website.
+Last but not least, I'm open sourcing the reporting engine of Progress. It's the heart of Progress and contains nearly all logic and rendering functionality. The SDK is called _ProgressKit_ and is released under MIT License. That said, you are basically free to use it in any way you like. Further information is available on the [SDK's documentation](https://sdk.progress.rocks/) - just click "SDK" in the main navigation of the Progress website.
 
 **Progress v1.3 - this is it. As always, if you have any question or feedback just drop me a line:** [**support@progress.rocks**](mailto:support@progress.rocks)
 
