@@ -19,6 +19,10 @@ As you might noticed, iOS as well as iPadOS 13 brings you a new and quite cool f
 
 ### 📱 iPadOS
 
+Another major improvement is the official support for iPadOS from this release on. So if you prefer to keep track of your achievements on your iPad - go for it!
+
+... BILD von iPad (Portrait) ...
+
 **Progress v1.3 - this is it. As always, if you have any question or feedback just drop me a line:** [**support@progress.rocks**](mailto:support@progress.rocks)
 
 _If you use Apple Reminders to organise your to-do lists, Progress for Apple Reminders can help you to achieve what you want. Give it a try and let me know what you think!_
