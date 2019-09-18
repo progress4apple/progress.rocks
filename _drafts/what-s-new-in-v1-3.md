@@ -19,13 +19,13 @@ As you might noticed, iOS as well as iPadOS 13 brings you a new and quite cool f
 
 ### 📱 iPadOS
 
-Another major improvement is the official support for iPadOS from this release on. So if you prefer to keep track of your achievements on your iPad - you now can!
+Another major improvement is the official support for iPadOS from this release onwards. So if you prefer to keep track of your achievements on your iPad - now you can!
 
 ... BILD von iPad (Portrait) ...
 
 ### 🌟 ProgressKit is now Open Source
 
-Last but not least, I'm open sourcing the reporting engine of Progress. It's the heart of Progress and contains nearly all logic and rendering functionality. The SDK is called _ProgressKit_ and is released under MIT License. That said, you are basically free to use it in any way you like. Further information is available on the [SDK's documentation](https://sdk.progress.rocks/) - just click "SDK" in the main navigation of the Progress website.
+Last but not least, I'm open sourcing the reporting engine of Progress. It's the heart of Progress and contains nearly all logic and rendering functionality. The SDK is called _ProgressKit_ and is released under MIT License. That said, you are basically free to use it in any way you like. Further information is available on the SDK's documentation - just click "[SDK](https://sdk.progress.rocks/)" in the main navigation of the Progress website.
 
 **Progress v1.3 - this is it. As always, if you have any question or feedback just drop me a line:** [**support@progress.rocks**](mailto:support@progress.rocks)
 
