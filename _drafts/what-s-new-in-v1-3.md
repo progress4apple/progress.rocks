@@ -1,7 +1,7 @@
 ---
 author_staff_member: marco
 title: What's new in v1.3
-date: 2019-10-01 16:27:00 +0000
+date: 2019-10-06 16:27:00 +0000
 description: iOS and iPadOS 13 as well as Light Mode!
 image: "/images/Progress-for-Apple-Reminders-LightMode.png"
 categories:
