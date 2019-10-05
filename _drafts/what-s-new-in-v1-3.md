@@ -15,7 +15,7 @@ Hope you guys enjoyed the summer break! I absolutely did - and I also used my sp
 
 As you might noticed, iOS as well as iPadOS 13 brings you a new and quite cool feature: [Dark Mode](https://www.macrumors.com/how-to/enable-dark-mode-in-ios-13/). Since Progress was already dark by default, I'm proud to welcome you on the bright side: Progress got an all new and shiny Light Mode! And guess what; Progress automatically switches between Light and Dark Mode depending on your system settings 🥳.
 
-..... ZWEIGETEILTES BILD DARK/LIGHT MODE ...
+![](/images/Progress-for-Apple-Reminders-LightMode.png)
 
 ### 📱 iPadOS
 
