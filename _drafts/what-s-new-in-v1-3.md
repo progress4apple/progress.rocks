@@ -3,7 +3,7 @@ author_staff_member: marco
 title: What's new in v1.3
 date: 2019-10-01 16:27:00 +0000
 description: iOS and iPadOS 13 as well as Light Mode!
-image: "/images/whats-new-in-1-2-super-mario.gif"
+image: "/images/Progress-for-Apple-Reminders-LightMode.png"
 categories:
 - release
 comments: true
@@ -21,7 +21,7 @@ As you might noticed, iOS as well as iPadOS 13 brings you a new and quite cool f
 
 Another major improvement is the official support for iPadOS from this release onwards. So if you prefer to keep track of your achievements on your iPad - now you can!
 
-... BILD von iPad (Portrait) ...
+![](/images/Progress-for-Apple-Reminders-iPad.png)
 
 ### 🌟 ProgressKit is now Open Source
 
